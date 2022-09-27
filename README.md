@@ -50,3 +50,30 @@ public class Single2 {
 	}
 
 }
+
+
+program-3
+## single3
+
+
+
+
+public class Single2 {
+
+	public static void main(String[] args) {
+		int a=4;
+		int v=1;
+		
+	
+		for(int i=1;i<=a;i++)
+		{
+			System.out.print(v +" " );
+			v=v+2;
+			
+		}
+	
+		
+	}
+
+}
+
