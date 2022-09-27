@@ -30,3 +30,23 @@ default:System.out.println("plese enter valid option");
 
 	}
 
+program-2
+##Single integer
+
+
+
+public class Single2 {
+
+	public static void main(String[] args) {
+		int a=5;
+		int v=1;
+		
+		
+		for(int i=1;i<=a;i++)
+		{
+			System.out.print(v +" " );
+			v=v+2;
+		}
+	}
+
+}
